@@ -11,7 +11,7 @@
 
    Nokogiri is a very popular Ruby gem parser. It can parse HTML, XML, SAX, and Reader, but I would be using it for HTML.
 
-<img src="../images/nokoigiri.png"/>
+<img src="../images/noko-code.png"/>
 
 ### Extras to Web Scraping
 

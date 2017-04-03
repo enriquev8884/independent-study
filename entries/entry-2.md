@@ -9,6 +9,7 @@
 
 ### Redoing and Researching
 
-   A main issue with web scraping is the different ways to approach the same problem. 
+   A main issue with web scraping for me is the different ways to approach the same problem. 
+
 
 Next | [Table of Contents](../README.md)
